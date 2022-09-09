@@ -1,0 +1,2 @@
+ep1	Aman Pani	Wed Sep  1 10:14:58 2021	manager	10000
+ep2	naman p	Wed Sep  1 10:24:16 2021	v.manager	5000
